@@ -1,0 +1,31 @@
+console.log('operator aritmatika')
+const angka1 = 30
+const angka2 = 20
+const angka3 = 10
+
+const penjumlahan = angka1 + angka2 + angka3 // 50
+const pengurangan = angka1 - angka3 - angka2 // 0
+const perpangkatan = angka1 ** angka2 ** angka3 // 30 ^ 20 ^ 10
+const perkalian = angka1 * angka2 * angka3 //
+const sisabagi = angka1 % angka3 % angka2 //
+const pembagian = angka3 / angka1 / angka2 //
+
+
+
+console.log ('+', penjumlahan)
+console.log('-', pengurangan)
+console.log('**', perpangkatan)
+console.log('*', perkalian)
+console.log('%', sisabagi)
+console.log('/', pembagian
+)
+perbandingan //
+console.log('>', angka1 > angka2) //true
+console.log('<', angka2 < angka3) //false
+console.log('=', angka1 = angka3) //false
+console.log('>=', angka2 >= angka1) //
+console.log('!', angka3 ! angka2)
+console.log('!=', angka2 != angka3)
+console.log ('!==', angka2 !== angka1)
+console.log('&&', angka2 && angka1)
+
